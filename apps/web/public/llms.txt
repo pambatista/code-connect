@@ -1,0 +1,7 @@
+# CodeConnect
+
+Plataforma para conectar desenvolvedores. Esta é a aplicação web — a tela atual é a página de login.
+
+## Links
+
+- [Login](/login)
