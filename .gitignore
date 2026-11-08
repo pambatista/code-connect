@@ -25,3 +25,7 @@ yarn-error.log*
 .idea/
 .vscode/*
 !.vscode/extensions.json
+
+# Devin local config (secrets)
+.devin/mcp_config.local.json
+.devin/config.local.json
